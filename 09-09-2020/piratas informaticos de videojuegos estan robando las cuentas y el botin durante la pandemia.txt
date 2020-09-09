@@ -1,0 +1,101 @@
+piratas informaticos de videojuegos estan robando las cuentas y el botin durante la pandemia
+
+El aumento de los juegos inducido por la cuarentena, especialmente entre los niños, ha traído consigo un aumento de estafadores
+
+
+    
+Después de que su escuela secundaria cambiara al aprendizaje remoto la primavera pasada, Luke Martin tenía mucho tiempo extra en sus manos. Llenaba sus horas de ocio jugando videojuegos. Luego lo piratearon.
+
+
+Un día de abril, cuando intentó iniciar sesión en la plataforma de juegos en línea Steam, recibió un mensaje que decía que sus credenciales eran incorrectas. Después de que el servicio de atención al cliente de Steam lo ayudó a volver a ingresar a su cuenta, descubrió que $ 200 de los juegos que había comprado habían desaparecido. Incluso los $ 1.10 que le quedaban en su cuenta se habían ido. Comprobó el historial de inicio de sesión y descubrió que alguien había iniciado sesión en su cuenta desde una dirección IP en Moldavia.
+
+
+El aumento de los juegos inducido por la cuarentena la primavera pasada, especialmente entre los niños, ha traído consigo un aumento de estafadores que buscan oportunidades. El tráfico de juegos en línea aumentó un 30% en el segundo trimestre en comparación con el primero, y los intentos de piratear las cuentas de los jugadores y robar sus bienes digitales también aumentaron, según Kevin Gosschalk, director ejecutivo de Arkose Labs, una prevención de fraude y abuso. empresa para comerciantes de juegos y otros minoristas.
+
+
+Si bien es posible que no considere que un pirateo de un videojuego sea tan devastador como una violación de una cuenta bancaria, y mucho menos un robo en una casa, las víctimas pierden bienes personales y fondos como resultado. La moneda digital y los artículos que van desde armas hasta "máscaras", los atuendos que usan los avatares de los jugadores, pueden valer mucho para los piratas informáticos que los venden en los mercados en línea.
+
+
+Los inicios de sesión de la cuenta, a menudo utilizando contraseñas robadas, son el método de ataque más común, según Arkose. Si reutiliza sus contraseñas en varios sitios y una es violada, esa contraseña podría terminar en una lista que los piratas informáticos compran en el mercado negro. Intentan esas contraseñas expuestas y los nombres de usuario asociados en otros sitios, con la esperanza de tener suerte.
+
+
+De aproximadamente dos mil millones de intentos de inicio de sesión en videojuegos en abril, mayo y junio, el 31% fueron fraudulentos, frente al 11% en el período del año anterior, según el informe. Gigante del juego Nintendo NTDOY-5,31% informó que al menos 300.000 de las cuentas de sus usuarios en todo el mundo habían sido pirateadas desde abril, y la compañía agregó medidas de seguridad adicionales en respuesta .
+
+
+La pérdida de una cuenta y su inventario puede ser devastadora para los jugadores serios que gastaron mucho tiempo o dinero, o ambos, adquiriendo habilidades y bienes digitales.
+
+
+“Es como si le robaran su juguete favorito”, dijo el Sr. Gosschalk. Y para algunos jugadores, dijo, es como que les quiten su propia identidad. Estima que los piratas informáticos, en conjunto, ganan cientos de millones de dólares al año vendiendo productos digitales robados.
+
+
+Luke tuvo suerte de que Steam restableciera sus juegos e incluso le reembolsara $ 1.10. El joven de 16 años de Mohnton, Pensilvania, dijo que pensó que había configurado la autenticación de dos factores en su cuenta, pero que podría no haberlo hecho correctamente.
+
+
+"Por lo general, estoy muy seguro con los datos de mis usuarios y me he vuelto bastante bueno para no caer en las estafas de phishing", dijo Luke. “No sé cómo sucedió, pero sucedió. Mis amigos se rieron de mí, pero sé que también les ha pasado a ellos ".
+
+
+Una vez que recuperó el acceso a su cuenta, se aseguró de bloquearla. (Vea los consejos a continuación para mantener sus cuentas seguras). En dos horas, dijo que recibió alrededor de 10 notificaciones de texto de que alguien estaba tratando de iniciar sesión en su cuenta. Algunas de las notificaciones estaban en ruso. Cuando revisó el historial de inicio de sesión, pudo ver que algunos de los intentos provenían de una dirección IP rusa. No recibió más notificaciones después de la ola inicial.
+
+
+Aarush Dey acababa de hacer su primera compra en un juego en abril: usó dólares reales para comprar gemas y gastarlas en "Brawl Stars", un juego que había estado jugando en su iPad durante más de un año. La compra fue un regalo de sus padres por su undécimo cumpleaños. No mucho después de eso, su cuenta fue pirateada.
+
+
+Su madre, Suchi Ray, había recibido notificaciones de compra de Apple AAPL-3,27% en montos de 99 centavos y $ 2.99 y no pensé mucho en eso. Una noche, alrededor de la 1 am, su teléfono sonó con una notificación de otro cargo en el juego. Pero Aarush estaba durmiendo y su iPad cargaba junto a la cama de la Sra. Ray.
+
+
+"Aarush no pasa mucho tiempo jugando, y esta fue la primera vez que hicimos una compra en el juego y eso fue suficiente para exponerlo", dijo.
+
+
+La Sra. Ray, de Houston, estaba tan preocupada por dónde había ocurrido la violación que eliminó la aplicación y cambió su ID de Apple y contraseña. Porque su ID de Apple estaba vinculada a su PayPal PYPL-1,91% cuenta, que está vinculada a su American Express tarjeta, ella cambió sus contraseñas correspondientes a esas cuentas, también. Incluso cambió su Google GOOG-2,69% contraseña.
+
+
+"Ya no sabemos qué está vinculado a qué", dijo Ray. "La pérdida monetaria fue muy pequeña, pero el esfuerzo por protegernos fue grande".
+
+
+Los piratas informáticos tomaron 300 gemas de la cuenta de Aarush, que valían alrededor de $ 20. En julio, la Sra. Ray permitió que Aarush comenzara a jugar a "Brawl Stars" nuevamente y decidió que usara tarjetas de regalo para realizar compras en el juego para minimizar la exposición financiera.
+
+
+Las pequeñas pérdidas de Luke y Aarush son la norma, razón por la cual el fraude en los juegos es tan común: es un negocio de alto volumen. Pero a veces los piratas informáticos obtienen un gran premio. El relato de Colby Bruno fue uno de ellos.
+
+
+Aunque su cuenta de Steam fue pirateada en agosto del año pasado, todavía se está recuperando de la experiencia. El joven de 17 años de Knoxville, Tenn., Tenía más de $ 1,000 en armas y máscaras en el juego “Counter-Strike: Global Offensive” que había acumulado durante más de tres años.
+
+
+Un día, Colby se conectó para encontrar un mensaje que le informaba que su cuenta había sido marcada por un administrador por violar una regla. Su nombre había sido borrado de su perfil de cuenta y su ícono se había cambiado a un ícono predeterminado. "En ese momento supe que había sido pirateado", dijo.
+
+
+Dijo que sus amigos en el juego comenzaron a enviarle mensajes diciéndole que vieron que su cuenta estaba en problemas y le recomendaron que transfiriera todos sus elementos a otra cuenta suya donde estarían seguros. Luego confirmó el intercambio en su teléfono. Pero cuando inició sesión en esa otra cuenta, todo su inventario había desaparecido: se dio cuenta entonces de que los piratas informáticos habían engañado a sus amigos, engañándolo para que transfiriera los bienes.
+
+
+Todavía no está seguro de cómo los piratas informáticos llevaron a cabo el truco (dice que tenía habilitada la autenticación de dos factores) pero se da cuenta de que ahora no habría habido forma de que sus amigos reales supieran de inmediato que su cuenta había sido marcada. "Estaba en el momento y me estaba volviendo loco por perder mis cosas", dijo. Ni siquiera intentó recuperar sus artículos de Steam porque está familiarizado con su política de no restaurar bienes digitales que han dejado cuentas por algún motivo.
+
+
+Un portavoz del propietario de Steam, Valve Corp., no respondió a las solicitudes de comentarios. Steam afirma en su sitio web que no repone los productos porque duplicarlos reduce su valor. "Es su responsabilidad proteger su cuenta de Steam", dice la política.
+
+
+Después de perder todo ese inventario, Colby cambió todas las contraseñas de su cuenta a largas secuencias de letras, números y símbolos. "No hay nada que pueda hacer excepto aprender de sus errores y esperar no ser víctima del próximo esquema", dijo.
+
+
+Lo que puedes hacer
+
+Aquí hay algunas formas de protegerse y proteger a sus hijos del fraude de juegos en línea.
+
+
+Configure la autenticación de dos factores : 2FA, como se le conoce, es una capa adicional de seguridad que requiere una información adicional, más allá de un nombre de usuario y contraseña, para iniciar sesión en una cuenta. En muchos casos, es un mensaje de texto con un código de un solo uso que se envía con cada intento de inicio de sesión. Si bien los números de teléfono a veces pueden falsificarse , esto sigue siendo más seguro que no tener los dos factores activados.
+
+
+Cree una contraseña segura : “La razón principal por la que las cuentas son robadas es que tienen contraseñas débiles o usan la misma contraseña en diferentes productos”, dijo Kevin Gosschalk, de Arkose Labs. También es una buena idea, dijo, cambiar las contraseñas con frecuencia . Un administrador de contraseñas puede ayudar.
+
+
+Nunca comparta los detalles de la cuenta : es importante que nunca comparta la información de inicio de sesión, incluso con amigos, porque pueden ser piratas informáticos disfrazados.
+
+
+Verifique la URL : al iniciar sesión en un juego en una PC o Mac, siempre es una buena idea verificar la dirección web para asegurarse de que sea la URL correcta. Los piratas informáticos pueden configurar correos electrónicos y sitios web de apariencia idéntica para engañarlo para que revele sus credenciales de inicio de sesión. Marque su plataforma de juegos y no haga clic en un enlace de un correo electrónico que diga que hay un problema con la cuenta.
+
+
+Configure los controles parentales : la configuración del control parental en las consolas de juegos y en la App Store de Apple o Google Play Store puede garantizar que los padres aprueben cualquier compra dentro del juego antes de que se realice.
+
+
+—Para obtener más columnas sobre Familia y tecnología, consejos y respuestas a sus preguntas más urgentes sobre tecnología relacionadas con la familia, suscríbase a mi boletín semanal .
+
+
